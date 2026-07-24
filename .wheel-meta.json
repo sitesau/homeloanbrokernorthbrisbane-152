@@ -1,0 +1,18 @@
+{
+  "wheel_id": 132,
+  "structure": "umbrella",
+  "slug": "homeloanbrokernorthbrisbane-152",
+  "project": "home-loan-brokers-brisbane-h-152",
+  "parent_t1_ref": "homeloanbrokernorthbrisbane-001",
+  "node_role": "buffer",
+  "money_target": "homeloanbrokernorthbrisbane.com.au",
+  "primary_kw": "home loan brokers brisbane",
+  "intended_url": "https://sites-e470-2.web.app/home-loan-brokers-brisbane-h-152/",
+  "links": [
+    {
+      "target_url": "https://home-loan-brokers-brisbane.pages.dev/",
+      "anchor": "home loan brokers brisbane",
+      "rel": "follow"
+    }
+  ]
+}
